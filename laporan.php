@@ -14,9 +14,7 @@ require 'cek.php';
     <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
 
     <!-- css boostrap 5.3 -->
-    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
-    <!-- icons boostrap 5.3 -->
-    <link href="dist/icon/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body>
@@ -99,7 +97,7 @@ require 'cek.php';
 
 
     <!-- Boostrap js -->
-    <script src="dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

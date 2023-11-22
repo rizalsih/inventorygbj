@@ -39,24 +39,8 @@ if(!isset($_SESSION['log'])) {
     <title>Login</title>
     <link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
 
-    <!-- Custom fonts for this template-->
-    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-    <link
-        href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
-        rel="stylesheet">
-
-    <!-- Custom styles for this template-->
-    <link href="css/sb-admin-2.min.css" rel="stylesheet">
-
-    <!-- Boostrap css 5.3 -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
-    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="sign-in.css" rel="stylesheet">
-
     <!-- css boostrap 5.3 -->
-    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
-    <!-- icons boostrap 5.3 -->
-    <link href="dist/icon/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body class="bg-gradient-primary">
@@ -111,7 +95,7 @@ if(!isset($_SESSION['log'])) {
 
 
     <!-- Boostrap js -->
-    <script src="dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
 
 </body>
 
